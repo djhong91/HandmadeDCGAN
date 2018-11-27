@@ -1,0 +1,2 @@
+model_checkpoint_path: "handmadeDCGAN.model-2"
+all_model_checkpoint_paths: "handmadeDCGAN.model-2"
